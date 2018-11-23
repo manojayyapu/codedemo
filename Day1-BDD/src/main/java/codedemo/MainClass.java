@@ -11,6 +11,7 @@ public class MainClass {
 	
 	public static void greetings() {
 		System.out.println("I'm from Greetings");
+		System.out.println("Hello!!");
 	}
 
 }
