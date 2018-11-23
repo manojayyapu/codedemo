@@ -7,7 +7,7 @@ public class MainClass {
 		System.out.println("Hello!How are you?");
 		
 		greetings();
-		Chotu();
+		Hello();
 	}
 	
 	public static void greetings() {
@@ -15,7 +15,7 @@ public class MainClass {
 		System.out.println("Hello!!");
 	}
 
-	public static void Chotu() {
+	public static void Hello() {
 		System.out.println("HI !!!!");
 	}
 }
