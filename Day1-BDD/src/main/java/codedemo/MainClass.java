@@ -16,6 +16,6 @@ public class MainClass {
 	}
 
 	public static void Chotu() {
-		System.out.println("Chotuuuu");
+		System.out.println("HI !!!!");
 	}
 }
